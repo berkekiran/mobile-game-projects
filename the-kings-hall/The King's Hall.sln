@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The King's Hall", "Assembly-CSharp.csproj", "{F54C11A5-FDB9-CE5A-70C5-9BEC4FB5E2FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The King's Hall", "Assembly-CSharp-Editor.csproj", "{CDE83270-C1DC-B04E-2823-9BEF3C2A0BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54C11A5-FDB9-CE5A-70C5-9BEC4FB5E2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54C11A5-FDB9-CE5A-70C5-9BEC4FB5E2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54C11A5-FDB9-CE5A-70C5-9BEC4FB5E2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54C11A5-FDB9-CE5A-70C5-9BEC4FB5E2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE83270-C1DC-B04E-2823-9BEF3C2A0BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE83270-C1DC-B04E-2823-9BEF3C2A0BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE83270-C1DC-B04E-2823-9BEF3C2A0BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE83270-C1DC-B04E-2823-9BEF3C2A0BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
